@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+pydantic
+sqlalchemy
+streamlit
+selenium
+webdriver-manager
+undetected-chromedriver
+sentence-transformers
+faiss-cpu
+google-generativeai
+pandas
+plotly
